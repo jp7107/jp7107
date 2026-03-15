@@ -1,15 +1,15 @@
 <svg fill="none" viewBox="0 0 580 300" width="580" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Circular clip path for the avatar -->
+    <!-- Circular mask for the avatar -->
     <clipPath id="avatarClip">
       <circle cx="70" cy="70" r="40" />
     </clipPath>
   </defs>
 
-  <!-- Background Container -->
+  <!-- Background Card -->
   <rect width="580" height="300" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Native SVG Avatar (This fixes the "blank" issue) -->
+  <!-- VERIFIED AVATAR for jp7107 -->
   <image 
     x="30" y="30" 
     width="80" height="80" 
@@ -30,11 +30,7 @@
         .name { color: #e6edf3; font-size: 24px; font-weight: 600; margin-bottom: 4px; }
         .name span { color: #58a6ff; }
         
-        .typing-container {
-          height: 20px;
-          display: flex;
-          align-items: center;
-        }
+        .typing-container { height: 20px; display: flex; align-items: center; }
         .typing {
           color: #bc8cff;
           font-family: monospace;
@@ -43,11 +39,11 @@
           overflow: hidden;
           width: 0;
           border-right: 2px solid #bc8cff;
-          animation: typing 5s steps(30, end) infinite, blink 0.8s step-end infinite;
+          animation: typing 5s steps(25, end) infinite, blink 0.8s step-end infinite;
         }
         @keyframes typing {
           0%, 10% { width: 0; }
-          45%, 55% { width: 220px; } 
+          45%, 55% { width: 210px; } 
           90%, 100% { width: 0; }
         }
         @keyframes blink { 50% { border-color: transparent; } }
@@ -61,9 +57,7 @@
         .bio li:nth-child(3) { animation-delay: 0.6s; }
         .bio li:nth-child(4) { animation-delay: 0.8s; }
         
-        @keyframes fadeIn {
-          to { opacity: 1; transform: translateY(0); }
-        }
+        @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
         b { color: #3fb950; font-weight: 600; }
       </style>
 
