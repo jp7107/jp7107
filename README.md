@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jp7107&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jp7107&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
