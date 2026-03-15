@@ -9,7 +9,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jp7107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/jp7107/jp7107/blob/output/github-contribution-grid-snake.svg)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
