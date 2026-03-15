@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 580 300" width="580" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Circular mask for the avatar -->
+    <!-- Circular mask for the logo -->
     <clipPath id="avatarClip">
       <circle cx="70" cy="70" r="40" />
     </clipPath>
@@ -9,12 +9,12 @@
   <!-- Background Card -->
   <rect width="580" height="300" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-  <!-- VERIFIED AVATAR for jp7107 -->
+  <!-- GitHub Logo (Modern Mark) -->
+  <circle cx="70" cy="70" r="40" fill="#f0f6fc" /> <!-- White background for the logo circle -->
   <image 
-    x="30" y="30" 
-    width="80" height="80" 
-    href="https://avatars.githubusercontent.com/u/183929447?v=4" 
-    clip-path="url(#avatarClip)"
+    x="38" y="38" 
+    width="64" height="64" 
+    href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
   />
   <circle cx="70" cy="70" r="40" stroke="#58a6ff" stroke-width="2" fill="none" />
 
