@@ -1,4 +1,3 @@
-🚀 About Me<br><br>🎓 BTech Computer Science Engineering student<br><br>💻 Passionate about Full Stack Development<br><br>🧠 Practicing Data Structures & Algorithms in C++<br><br>🌱 Learning Node.js, Express, MongoDB, and backend architecture<br><br>🎯 Goal: Become a Software Engineer at top tech companies
 ![My Profile Card](https://github.com/jp7107/jp7107/blob/main/profile.svg))
 
 # 💻 Tech Stack:
