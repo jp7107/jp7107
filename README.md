@@ -17,6 +17,8 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast&hide_border=false" height="150"/>
 </p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jp7107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🐍 Contribution Snake
