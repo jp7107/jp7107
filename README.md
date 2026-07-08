@@ -5,17 +5,13 @@
 
 </details>
 
-# 📊 GitHub Stats:
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
+   <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jp7107&show_icons=true&theme=highcontrast&hide_border=false" height="150"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jp7107&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast&hide_border=false" height="150"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast"/>
 </p>
 
 
