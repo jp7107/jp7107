@@ -8,9 +8,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jp7107&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp7107&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jp7107&show_icons=true&theme=highcontrast" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast" height="150"/>
 </p>
 
 ## 🏆 GitHub Trophies
