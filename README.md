@@ -8,11 +8,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jp7107&show_icons=true&theme=highcontrast" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast" height="150"/>
-</p>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jp7107&show_icons=true&theme=highcontrast&hide_border=false" height="150"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jp7107&layout=compact&theme=highcontrast&hide_border=false" height="150"/>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jp7107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🐍 Contribution Snake
