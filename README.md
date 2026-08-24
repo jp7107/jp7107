@@ -5,7 +5,7 @@
 
 </details>
 
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="jp7107's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jp7107?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
 <p align="center">
    <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
 </p>
