@@ -9,7 +9,7 @@
 <p align="center">
    <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jp7107&theme=dark)](https://git.io/streak-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=jp7107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🐍 Contribution Snake
