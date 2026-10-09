@@ -10,7 +10,6 @@
    <img src="https://streak-stats.demolab.com?user=jp7107&theme=highcontrast&hide_border=false" height="150"/>
 </p> -->
 
-
 ![](https://github-profile-trophy.vercel.app/?username=jp7107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🐍 Contribution Snake
 
